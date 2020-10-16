@@ -2,6 +2,9 @@
 
 Adds named code blocks support to VS Codes's build-int markdown preview.
 
+[![Build Status](https://img.shields.io/visual-studio-marketplace/v/tsutsu3.markdown-named-codeblocks)](https://marketplace.visualstudio.com/items?itemName=tsutsu3.markdown-named-codeblocks)
+
+
 ![sample](https://github.com/tsutsu3/vscode-named-code-blocks/blob/master/image/sample.gif?raw=true)
 
 ## Features
@@ -16,7 +19,7 @@ console.log("Hello World!);
 
 
 ```js:hello.js
-console.log("hello");
+console.log("When you turn on the extension, you'll see a named code block here.");
 ```
 
 Default style preview:
