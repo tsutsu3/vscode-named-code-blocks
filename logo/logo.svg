@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path d="M512,93.508C512,86.169 506.041,80.21 498.701,80.21L13.299,80.21C5.959,80.21 0,86.169 0,93.508L0,378.402C0,385.742 5.959,391.701 13.299,391.701L498.701,391.701C506.041,391.701 512,385.742 512,378.402L512,93.508Z" style="fill:white;"/>
+    <clipPath id="_clip1">
+        <path d="M512,93.508C512,86.169 506.041,80.21 498.701,80.21L13.299,80.21C5.959,80.21 0,86.169 0,93.508L0,378.402C0,385.742 5.959,391.701 13.299,391.701L498.701,391.701C506.041,391.701 512,385.742 512,378.402L512,93.508Z"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g transform="matrix(1.45543,0,0,1.07701,-306.397,33.8486)">
+            <rect x="210.519" y="43.046" width="207.141" height="75.222" style="fill:rgb(219,219,219);"/>
+        </g>
+    </g>
+    <path d="M512,93.508C512,86.169 506.041,80.21 498.701,80.21L13.299,80.21C5.959,80.21 0,86.169 0,93.508L0,378.402C0,385.742 5.959,391.701 13.299,391.701L498.701,391.701C506.041,391.701 512,385.742 512,378.402L512,93.508Z" style="fill:none;stroke:rgb(150,150,150);stroke-width:3px;"/>
+    <g transform="matrix(1.3376,0,0,1.3376,-100.787,-127.082)">
+        <path d="M128.556,345.894L128.556,226.894L162.556,226.894L196.556,269.894L230.556,226.894L265.556,226.894L265.556,344.894L231.556,344.894L231.556,276.894L197.556,319.894L163.556,276.894L163.556,344.894L128.556,345.894Z" style="fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1.3376,0,0,1.3376,-86.93,-127.082)">
+        <path d="M344.556,345.894L292.556,288.894L326.556,288.894L326.556,227.894L360.556,227.894L360.556,287.894L394.556,287.894L344.556,345.894Z" style="fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(7.08387,0,0,7.08387,-375.842,-2649.54)">
+        <text x="58.329px" y="393.297px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8.484px;fill:rgb(52,52,52);">hello.md</text>
+    </g>
+    <g transform="matrix(18.5306,0,0,18.5306,-872.354,-1932.99)">
+        <text x="61.22px" y="121.24px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">:</text>
+    </g>
+</svg>

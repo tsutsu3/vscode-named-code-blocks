@@ -1,0 +1,50 @@
+{
+  "name": "markdown-named-codeblocks",
+  "displayName": "Markdown Named CodeBlocks",
+  "description": "Adds named code blocks support to the build-in markdown preview",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "keywords": [
+    "markdown",
+    "named-code-block",
+    "fence"
+  ],
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "icon": "logo/logox128.png",
+  "publisher": "tsutsu3",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/tsutsu3/vscode-named-code-blocks"
+  },
+  "bugs": {
+    "url": "https://github.com/tsutsu3/vscode-named-code-blocks/issues"
+  },
+  "main": "./dst/extension.js",
+  "contributes": {
+    "markdown.markdownItPlugins": true,
+    "markdown.previewStyles": [
+      "named-code-blocks.css"
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "vscode:prepublish": "webpack --mode production",
+    "webpack": "webpack --mode development",
+    "webpack-dev": "webpack --mode development --watch"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-prettier": "^6.12.0",
+    "prettier": "^2.1.2",
+    "webpack": "^5.1.3",
+    "webpack-cli": "^4.0.0"
+  },
+  "dependencies": {
+    "markdown-it-named-code-blocks": "^0.1.0"
+  }
+}
