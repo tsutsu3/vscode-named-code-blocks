@@ -2,14 +2,17 @@
   "name": "markdown-named-codeblocks",
   "displayName": "Markdown Named CodeBlocks",
   "description": "Adds named code blocks support to the build-in markdown preview",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.50.0"
   },
   "keywords": [
     "markdown",
-    "named-code-block",
-    "fence"
+    "named-code-blocks",
+    "fence",
+    "code blocks",
+    "named code blocks",
+    "named"
   ],
   "categories": [
     "Other"
