@@ -41,7 +41,7 @@
     "webpack-dev": "webpack --mode development --watch"
   },
   "devDependencies": {
-    "eslint": "^7.9.0",
+    "eslint": "^8.43.0",
     "eslint-config-prettier": "^6.12.0",
     "prettier": "^2.1.2",
     "webpack": "^5.86.0",
