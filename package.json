@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/tsutsu3/vscode-named-code-blocks/issues"
   },
-  "main": "./dst/extension.js",
+  "main": "./dist/extension.js",
   "contributes": {
     "markdown.markdownItPlugins": true,
     "markdown.previewStyles": [
