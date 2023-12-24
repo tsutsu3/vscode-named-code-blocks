@@ -40,14 +40,14 @@
     "webpack": "webpack --mode development",
     "webpack-dev": "webpack --mode development --watch"
   },
-  "devDependencies": {
-    "eslint": "^8.43.0",
-    "eslint-config-prettier": "^8.8.0",
-    "prettier": "^2.8.8",
-    "webpack": "^5.87.0",
-    "webpack-cli": "^5.1.4"
-  },
   "dependencies": {
-    "markdown-it-named-code-blocks": "^0.2.0"
+    "markdown-it-named-code-blocks": "^1.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.1.1",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
   }
 }
