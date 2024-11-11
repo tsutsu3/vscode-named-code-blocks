@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.0.2 (2024/11/11)
+
+- Update dev libs
+- Update to markdown-it-named-code-blocks v1.0.6
+
 ## 1.0.1 (2023/12/24)
 
 - Update libs
