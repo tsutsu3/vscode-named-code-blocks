@@ -44,10 +44,10 @@
     "markdown-it-named-code-blocks": "^1.0.6"
   },
   "devDependencies": {
-    "eslint": "^9.15.0",
+    "eslint": "^9.16.0",
     "eslint-config-prettier": "^9.1.0",
-    "prettier": "^3.3.3",
-    "webpack": "^5.96.1",
+    "prettier": "^3.4.2",
+    "webpack": "^5.97.1",
     "webpack-cli": "^5.1.4"
   }
 }
