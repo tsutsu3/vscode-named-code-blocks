@@ -50,5 +50,10 @@
     "prettier": "^3.8.1",
     "webpack": "^5.105.3",
     "webpack-cli": "^6.0.1"
+  },
+  "pnpm": {
+    "overrides": {
+      "serialize-javascript": ">=7.0.3"
+    }
   }
 }
