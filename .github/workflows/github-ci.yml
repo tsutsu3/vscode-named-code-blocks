@@ -18,8 +18,6 @@ jobs:
       - name: install packages
         run: pnpm install --frozen-lockfile
       - name: Deploy Extension
-        uses: lannonbr/vsce-action@4.0.0
-        with:
-          args: "publish -p $VSCE_TOKEN"
+        run: pnpm exec vsce publish -p $VSCE_TOKEN --no-dependencies
         env:
           VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
