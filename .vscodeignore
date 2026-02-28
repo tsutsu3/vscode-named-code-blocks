@@ -7,4 +7,10 @@ vsc-extension-quickstart.md
 **/jsconfig.json
 **/*.map
 **/.eslintrc.json
+eslint.config.mjs
+.prettierignore
+.github/**
+extension.js
 node_modules
+node_modules/.pnpm
+pnpm-lock.yaml
