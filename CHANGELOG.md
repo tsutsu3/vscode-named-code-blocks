@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.0.4 (2026/02/28)
+
+- Migrate package manager from npm to pnpm
+- Update ESLint configuration to v9 flat config format
+- Add manual CI trigger (workflow_dispatch)
+- Fix security vulnerability: serialize-javascript upgraded to >=7.0.3
+- Update dependencies
+
 ## 1.0.3 (2024/11/11)
 
 - Fix README.md image paths
