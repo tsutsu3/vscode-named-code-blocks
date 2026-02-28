@@ -2,7 +2,7 @@
   "name": "markdown-named-codeblocks",
   "displayName": "Markdown Named CodeBlocks",
   "description": "Adds named code blocks support to the build-in markdown preview",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.50.0"
   },
