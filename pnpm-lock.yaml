@@ -9,20 +9,20 @@ importers:
   .:
     dependencies:
       markdown-it-named-code-blocks:
-        specifier: ^1.0.6
+        specifier: ^1.1.0
         version: 1.1.0
     devDependencies:
       eslint:
-        specifier: ^9.39.2
+        specifier: ^9.39.3
         version: 9.39.3
       eslint-config-prettier:
         specifier: ^10.1.8
         version: 10.1.8(eslint@9.39.3)
       prettier:
-        specifier: ^3.7.4
+        specifier: ^3.8.1
         version: 3.8.1
       webpack:
-        specifier: ^5.104.1
+        specifier: ^5.105.3
         version: 5.105.3(webpack-cli@6.0.1)
       webpack-cli:
         specifier: ^6.0.1
