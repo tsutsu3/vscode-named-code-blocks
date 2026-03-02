@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "@vscode/vsce": "^3.7.1",
-    "eslint": "^9.39.3",
+    "eslint": "^10.0.2",
     "eslint-config-prettier": "^10.1.8",
     "prettier": "^3.8.1",
     "webpack": "^5.105.3",
